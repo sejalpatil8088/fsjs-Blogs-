@@ -6,5 +6,5 @@
 ##  Definition of html and web
 ["https://vscode.hashnode.dev/definition-of-html-and-web"]
 
-## rototype and prototype chaining in javascript
+## Prototype and prototype chaining in javascript
 ["https://vscode.hashnode.dev/prototypes-and-prototype-chaining-in-javascript"]
